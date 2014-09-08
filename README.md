@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-this is a test repository
+Hello, i'm a LabVIEW programmer that tries to code in text.
